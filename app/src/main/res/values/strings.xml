@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">checkpoint1</string>
+    <string name="desc">untuk bisa memulai pencarian pasangan, antum harus mengisi form CV antum terlebih dahulu</string>
+    <string name="title">Isi Form CV dulu, yuk!</string>
+</resources>
